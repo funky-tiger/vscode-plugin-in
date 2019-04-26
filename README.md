@@ -31,5 +31,6 @@
 - 自动格式化代码
 > 
 # Path Intellisense
+- 自动检测路径
 > 
 # ES7 React/Redux
