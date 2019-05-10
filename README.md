@@ -3,7 +3,7 @@
  * @Description: In User Settings Edit
  * @Author: Tiger
  * @Date: 2019-04-26 15:19:30
- * @LastEditTime: 2019-05-10 23:34:36
+ * @LastEditTime: 2019-05-10 23:52:42
  -->
 
 ## vscode 插件
@@ -36,7 +36,7 @@
 
 # ESLint
 
-- ESLint 代码检测
+- ESLint 代码检测 回滚
   >
 
 # Prettier
