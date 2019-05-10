@@ -3,10 +3,10 @@
  * @Description: In User Settings Edit
  * @Author: Tiger
  * @Date: 2019-04-26 15:19:30
- * @LastEditTime: 2019-05-10 23:32:59
+ * @LastEditTime: 2019-05-10 23:34:36
  -->
 
-## vscode 插件 new222
+## vscode 插件
 
 # koroFileHeader
 
